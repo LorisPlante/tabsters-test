@@ -1,5 +1,5 @@
 import React from "react";
-import TaskManager from "./components/tasks";
+import TaskManager from "./components/taskManager";
 
 const App = () => (
   <div className="container mt-5">
